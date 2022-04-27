@@ -1,6 +1,5 @@
-package com.springboot.tutorial.dto;
+package com.springboot.tutorial.api.dto;
 
-import com.springboot.tutorial.api.dto.HelloResponseDto;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
